@@ -6,9 +6,10 @@ Processes (MDP) and analysing the results.
 ### Below are the steps to run the code.
 
 1) Download this repo from above github to local directory.
-2) Run easyGW.py to generate results for easy grid world.
-3) Run hadrGW.py to generate results for hard grid world.
-4) Use plot_me.py for generating plots.
+2) Download Burlap from http://burlap.cs.brown.edu/ and build the jar.
+3) Run easyGW.py to generate results for easy grid world.
+4) Run hadrGW.py to generate results for hard grid world.
+5) Use plot_me.py for generating plots.
 
 ## References
 
